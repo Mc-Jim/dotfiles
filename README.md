@@ -13,7 +13,7 @@ Distro & environment:
   - Stock Pop icons
   - Qogir-cursors (https://www.gnome-look.org/p/1366182)
  - pywal (https://github.com/dylanaraps/pywal)
-  - apply with: ``wal -i /path/to/AfterHours.png -b 242424``
+   - apply with: ``wal -i /path/to/AfterHours.png -b 242424``
 
 Software seen on screenshot:
 - kitty
