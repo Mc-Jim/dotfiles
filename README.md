@@ -12,7 +12,6 @@ Distro & environment:
   - WhiteSur Monterrey GTK & Firefox theme (https://github.com/vinceliuice/WhiteSur-gtk-theme)
   - Stock Pop icons
   - Qogir-cursors (https://www.gnome-look.org/p/1366182)
-  - Google Sans Font
 
 Software seen on screenshot:
 - kitty
@@ -20,5 +19,9 @@ Software seen on screenshot:
 - starship
 - vim
 - neofetch
+
+## Fonts:
+Interface: Google Sans Font
+Mono (terminal font): SF Mono Regular
 
 Enjoy :)
