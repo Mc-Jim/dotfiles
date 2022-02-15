@@ -15,12 +15,12 @@ $username [on](white) $directory$cmd_duration
 $character"""
 
 [character]
-success_symbol = "[»](bold white)" 
-error_symbol = "[»](bold red)"
+success_symbol = "[»](white)" 
+error_symbol = "[»](red)"
 
 [username] 
-style_user = "blue bold"
-style_root = "black bold"
+style_user = "blue"
+style_root = "black"
 format = "[$user]($style)"  
 disabled = false 
 show_always = true
@@ -29,13 +29,13 @@ show_always = true
 style="red"
 
 [dart]
-format= "via [ $version] (bold red) "
+format= "via [ $version] (red) "
 
 [cmd_duration]
 min_time = 25  
 show_milliseconds = false 
 disabled = false
-style="bold italic #87A752"
+style="italic #87A752"
 
 # disabled stuff-------------------------------------------
 
