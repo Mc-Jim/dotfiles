@@ -18,7 +18,6 @@ Distro & environment:
   Extensions (just the ones that are needed for the layout):
   - Arc Menu (just to change activities icon cuz JustPerfection didn't work)
   - BigAvatar
-  - executor (to put the seperator between clock and others)
   - JustPerfection
   - Native Window Placement
   - Unite
