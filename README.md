@@ -2,7 +2,7 @@
 
 Screenshot:
 
-![screenshot](screenshot.png)
+![screenshot](screenshot_mcj1m.png)
 
 ## What I use
 
