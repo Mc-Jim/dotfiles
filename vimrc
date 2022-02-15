@@ -62,6 +62,8 @@ call plug#begin('~/.vim/plugged/')
 	Plug 'lukelbd/vim-tabline'
 	Plug 'preservim/tagbar'
 	Plug 'wfxr/minimap.vim'
+	Plug 'stevearc/vim-arduino'
+	Plug 'mhinz/vim-startify'
 
 call plug#end()
 
@@ -75,7 +77,25 @@ let g:NERDTreeMinimalUI = 1
 
 " Code-Minimap----------------------------------
 
-let g:minimap_width = 15
+let g:minimap_width = 9
 let g:minimap_auto_start = 1
 let g:minimap_auto_start_win_enter = 1
 
+
+
+
+ 
+
+let ascii_art = [
+     \ '   __     _                     ',
+     \ '  /\ \  /| |                    ',
+     \ '  \ \ \ || |                    ',
+     \ '   \ \ \|| | __   __            ',
+     \ '    \ \ \| |/\_\ /\ `¯¯`v¯¯`\   ',
+     \ '     \ \   |\/\¯\\ \ \¯\ \¯\ \  ',
+     \ '      \ \__| \ \_\\ \_\ \_\ \_\ ',
+     \ '       \/_/   \/_/ \/_/\/_/\/_/ ',
+     \ '']
+                           
+                           
+let g:startify_custom_header = ascii_art
