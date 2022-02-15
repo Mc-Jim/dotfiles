@@ -23,12 +23,12 @@ Distro & environment:
   - Native Window Placement
   - Unite
   - User Themes
-  
   - Weeks Start On Monday Again
- - pywal (https://github.com/dylanaraps/pywal)
-   - apply with: ``wal -i /path/to/AfterHours.png -b 242424``
-
-Don't remeber the source of the wallpaper tho... 
+ 
+ 
+  Wallpaper:
+  - from Unsplash (https://unsplash.com/@hesamjr)
+  - pywal (https://github.com/dylanaraps/pywal)
 
 Software seen on screenshot:
 - kitty
